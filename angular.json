@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "loc8r"
+    }
+  },
+  "defaultProject": "loc8r",
+  "cli": {
+    "analytics": false
+  }
 }
